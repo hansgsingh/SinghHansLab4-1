@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ICS 115 Lab 4</string>
+    <string name="back">BACK</string>
+    <string name="location">Location: 1175 Padre Noval St, 466 Zone 46, Sampaloc, Manila, 1008 Metro Manila</string>
+    <string name="next">NEXT</string>
+    <string name="distance">Distance from UST: 0.4 km from UST</string>
+    <string name="eatles">Eatles</string>
+    <string name="todo">TODO</string>
+</resources>
